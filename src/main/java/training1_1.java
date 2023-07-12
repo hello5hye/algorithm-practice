@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-// 3개의 정수값을 입력하고 최댓값을 구하여 출력하기
-public class test {
+public class training1_1 {
     public static void main(String[] args) {
         System.out.println("hello test");
 
