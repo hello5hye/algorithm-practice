@@ -1,3 +1,5 @@
+package training1;
+
 import java.util.Scanner;
 
 public class training1_1 {
