@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="099beb29-6e77-4ac7-a4c2-42fc98985f11" name="Changes" comment="training1_1 add">
-      <change afterPath="$PROJECT_DIR$/src/main/java/training1/Median.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/training1/training1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/training1/training1_q1.java" afterDir="false" />
+    <list default="true" id="099beb29-6e77-4ac7-a4c2-42fc98985f11" name="Changes" comment="training1, Median add">
+      <change afterPath="$PROJECT_DIR$/src/main/java/training1/Median_q.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/training1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training1/training1_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +41,26 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="training1" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Median">
+  <component name="RunManager" selected="Application.Median_q">
     <configuration name="Median" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="training1.Median" />
+      <module name="algorithm-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="training1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Median_q" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training1.Median_q" />
       <module name="algorithm-practice" />
       <extension name="coverage">
         <pattern>
@@ -84,6 +95,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Median_q" />
         <item itemvalue="Application.Median" />
         <item itemvalue="Application.training1_q1" />
         <item itemvalue="Application.training1_2" />
@@ -101,7 +113,8 @@
       <updated>1689173319292</updated>
       <workItem from="1689173320379" duration="343000" />
       <workItem from="1689223589856" duration="627000" />
-      <workItem from="1689333622628" duration="2594000" />
+      <workItem from="1689333622628" duration="3252000" />
+      <workItem from="1689516295282" duration="2878000" />
     </task>
     <task id="LOCAL-00001" summary="training1_1 add">
       <created>1689173510857</created>
@@ -110,7 +123,21 @@
       <option name="project" value="LOCAL" />
       <updated>1689173510857</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="training1, Median add">
+      <created>1689338413548</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689338413548</updated>
+    </task>
+    <task id="LOCAL-00003" summary="training1, Median add">
+      <created>1689338421861</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689338421861</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +156,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="training1_1 add" />
-    <option name="LAST_COMMIT_MESSAGE" value="training1_1 add" />
+    <MESSAGE value="training1, Median add" />
+    <option name="LAST_COMMIT_MESSAGE" value="training1, Median add" />
   </component>
 </project>
