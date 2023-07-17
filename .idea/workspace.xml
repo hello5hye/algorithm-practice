@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="099beb29-6e77-4ac7-a4c2-42fc98985f11" name="Changes" comment="training1, Median add">
-      <change afterPath="$PROJECT_DIR$/src/main/java/training1/Median_q.java" afterDir="false" />
+    <list default="true" id="099beb29-6e77-4ac7-a4c2-42fc98985f11" name="Changes" comment="Median_q add">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,13 +31,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="training1" />
@@ -114,7 +114,8 @@
       <workItem from="1689173320379" duration="343000" />
       <workItem from="1689223589856" duration="627000" />
       <workItem from="1689333622628" duration="3252000" />
-      <workItem from="1689516295282" duration="2878000" />
+      <workItem from="1689516295282" duration="3215000" />
+      <workItem from="1689580243471" duration="1366000" />
     </task>
     <task id="LOCAL-00001" summary="training1_1 add">
       <created>1689173510857</created>
@@ -137,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689338421861</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Median_q add">
+      <created>1689519423563</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689519423563</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +165,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="training1_1 add" />
     <MESSAGE value="training1, Median add" />
-    <option name="LAST_COMMIT_MESSAGE" value="training1, Median add" />
+    <MESSAGE value="Median_q add" />
+    <option name="LAST_COMMIT_MESSAGE" value="Median_q add" />
   </component>
 </project>
