@@ -22,6 +22,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="2842a7b1-c259-4b28-9b5f-88d1be0bc70a" />
+        <option name="url" value="https://github.com/hello5hye/algorithm-practice.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -115,7 +123,7 @@
       <workItem from="1689223589856" duration="627000" />
       <workItem from="1689333622628" duration="3252000" />
       <workItem from="1689516295282" duration="3215000" />
-      <workItem from="1689580243471" duration="1366000" />
+      <workItem from="1689580243471" duration="2295000" />
     </task>
     <task id="LOCAL-00001" summary="training1_1 add">
       <created>1689173510857</created>
@@ -145,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689519423563</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Median_q add">
+      <created>1689589854023</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689589854023</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
