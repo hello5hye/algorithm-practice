@@ -1,26 +1,27 @@
 import java.util.Scanner;
 
-// 3개의 정수값을 입력하고 최댓값을 구하여 출력하기
 public class test {
     public static void main(String[] args) {
-        System.out.println("hello test");
+        int answer = 0;
+        String abc;
 
-        Scanner stdIn = new Scanner(System.in);
+        int a = 3;
+        int b = 4;
 
-        System.out.println("세 정수의 최댓값을 구합니다.");
-        System.out.println("a의 값 : ");
-        int a = stdIn.nextInt();
+        String at = Integer.toString(a);
+        String bt = Integer.toString(b);
 
-        System.out.println("b의 값 : ");
-        int b = stdIn.nextInt();
+        abc = at+bt;
 
-        System.out.println("c의 값 : ");
-        int c = stdIn.nextInt();
+        answer = 2 * a * b;
 
-        int max = a;
-        if (b > max) max = b;
-        if (c > max) max = c;
+        int abc_i = Integer.parseInt(abc);
 
-        System.out.println("최댓값은 " + max + "입니다.");
+        if (answer <= abc_i) {
+            System.out.println(abc_i);
+        } else {
+            System.out.println(answer);
+        }
+
     }
 }
