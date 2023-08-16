@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="099beb29-6e77-4ac7-a4c2-42fc98985f11" name="Changes" comment="q10 add" />
+    <list default="true" id="099beb29-6e77-4ac7-a4c2-42fc98985f11" name="Changes" comment="training1_10 add (다시 확인하기)">
+      <change afterPath="$PROJECT_DIR$/src/main/java/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training1/training1_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +55,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.training1_10">
+  <component name="RunManager" selected="Application.training1_11">
     <configuration name="q10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="training1.q10" />
       <module name="algorithm-practice" />
@@ -78,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test2" />
       <module name="algorithm-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="training1_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="training1.training1_9" />
+    <configuration name="training1_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training1.training1_11" />
       <module name="algorithm-practice" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.training1_11" />
+        <item itemvalue="Application.test2" />
         <item itemvalue="Application.training1_10" />
         <item itemvalue="Application.q10" />
         <item itemvalue="Application.q9" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.training1_9" />
       </list>
     </recent_temporary>
   </component>
@@ -138,6 +142,10 @@
       <workItem from="1690113928577" duration="2609000" />
       <workItem from="1690116559888" duration="73000" />
       <workItem from="1690377132632" duration="1467000" />
+      <workItem from="1690982629390" duration="336000" />
+      <workItem from="1691583479648" duration="956000" />
+      <workItem from="1691632738453" duration="1288000" />
+      <workItem from="1692179703068" duration="172000" />
     </task>
     <task id="LOCAL-00001" summary="training1_1 add">
       <created>1689173510857</created>
@@ -230,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690378308037</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="training1_10 add (다시 확인하기)">
+      <created>1690982925282</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1690982925282</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,6 +270,7 @@
     <MESSAGE value="q8 add" />
     <MESSAGE value="q9 add" />
     <MESSAGE value="q10 add" />
-    <option name="LAST_COMMIT_MESSAGE" value="q10 add" />
+    <MESSAGE value="training1_10 add (다시 확인하기)" />
+    <option name="LAST_COMMIT_MESSAGE" value="training1_10 add (다시 확인하기)" />
   </component>
 </project>
