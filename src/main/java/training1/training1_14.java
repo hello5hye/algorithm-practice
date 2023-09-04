@@ -3,10 +3,8 @@ package training1;
 
 import java.util.Scanner;
 
-// 1부터 n까지 구하는 과정 출력
+// *를 n개 출력, w 개마다 줄을 바꿔서 출력
 public class training1_14 {
-
-
     public static void main(String[] args) {
         Scanner stdIn =new Scanner(System.in);
 
@@ -23,15 +21,25 @@ public class training1_14 {
             w = stdIn.nextInt();
         } while (w <= 0 || w > n);
 
-        for (int i = 0; i < n; i++) {
-            System.out.print("*");
+//        for (int i = 0; i < n; i++) {
+//            System.out.print("*");
+//
+//            if (i % w == w -1)
+//                System.out.println(); // 줄 바꿈
+//        }
+//
+//        if (n % w != 0)
+//            System.out.println(); // 줄 바꿈
 
-            if (i % w == w -1)
-                System.out.println(); // 줄 바꿈
+        // 1-15
+        for (int i = 0; i < n / w; i++) {
+            System.out.println("*".repeat(w));
+
         }
+        int rest = n % w;
 
-        if (n % w != 0)
-            System.out.println(); // 줄 바꿈
+        if (rest != 0)
+            System.out.println("*".repeat(rest));
 
 
 

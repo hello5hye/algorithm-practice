@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="099beb29-6e77-4ac7-a4c2-42fc98985f11" name="Changes" comment="training1_11 add">
-      <change afterPath="$PROJECT_DIR$/src/main/java/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/training1/training1_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/training1/training1_14.java" afterDir="false" />
+    <list default="true" id="099beb29-6e77-4ac7-a4c2-42fc98985f11" name="Changes" comment="training1_12 ~14 add">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training1/training1_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training1/training1_14.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +148,8 @@
       <workItem from="1692179877998" duration="674000" />
       <workItem from="1692184311339" duration="1506000" />
       <workItem from="1692354329417" duration="2000" />
-      <workItem from="1693313013174" duration="3053000" />
+      <workItem from="1693313013174" duration="3923000" />
+      <workItem from="1693842370368" duration="615000" />
     </task>
     <task id="LOCAL-00001" summary="training1_1 add">
       <created>1689173510857</created>
@@ -258,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692180050123</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="training1_12 ~14 add">
+      <created>1693317048258</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1693317048258</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,6 +290,7 @@
     <MESSAGE value="q10 add" />
     <MESSAGE value="training1_10 add (다시 확인하기)" />
     <MESSAGE value="training1_11 add" />
-    <option name="LAST_COMMIT_MESSAGE" value="training1_11 add" />
+    <MESSAGE value="training1_12 ~14 add" />
+    <option name="LAST_COMMIT_MESSAGE" value="training1_12 ~14 add" />
   </component>
 </project>
