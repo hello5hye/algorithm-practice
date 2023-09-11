@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="099beb29-6e77-4ac7-a4c2-42fc98985f11" name="Changes" comment="training1-16 add">
-      <change afterPath="$PROJECT_DIR$/src/main/java/test4.java" afterDir="false" />
+    <list default="true" id="099beb29-6e77-4ac7-a4c2-42fc98985f11" name="Changes" comment="training test add">
+      <change afterPath="$PROJECT_DIR$/src/main/java/test5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/training1/training1_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training1/training1_16.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
       <recent name="training1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test4">
+  <component name="RunManager" selected="Application.test5">
     <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test4" />
       <module name="algorithm-practice" />
@@ -63,15 +62,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="training1_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="training1.training1_12" />
+    <configuration name="test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test5" />
       <module name="algorithm-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="training1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test5" />
         <item itemvalue="Application.test4" />
         <item itemvalue="Application.training1_16" />
         <item itemvalue="Application.training1_15_c_2" />
         <item itemvalue="Application.training1_14" />
-        <item itemvalue="Application.training1_12" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +146,8 @@
       <workItem from="1693842370368" duration="863000" />
       <workItem from="1693843243834" duration="530000" />
       <workItem from="1694148282234" duration="695000" />
-      <workItem from="1694169493701" duration="5408000" />
+      <workItem from="1694169493701" duration="6164000" />
+      <workItem from="1694438898944" duration="970000" />
     </task>
     <task id="LOCAL-00001" summary="training1_1 add">
       <created>1689173510857</created>
@@ -295,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694173233891</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="training test add">
+      <created>1694184371739</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1694184371739</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,6 +327,7 @@
     <MESSAGE value="training1C_2 add" />
     <MESSAGE value="training1-16..add" />
     <MESSAGE value="training1-16 add" />
-    <option name="LAST_COMMIT_MESSAGE" value="training1-16 add" />
+    <MESSAGE value="training test add" />
+    <option name="LAST_COMMIT_MESSAGE" value="training test add" />
   </component>
 </project>
